@@ -8,3 +8,4 @@ Orange
 Indigo
 These are the color of the rainbow.
 This is popcorn.
+These are oranges.
